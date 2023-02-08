@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/23 23:44:00.000.453,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/23 23:48:28.000.256,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\bodyfit\Mobile\UnitLogin.fmx</Transaction>
+    <Transaction>2023/01/23 23:48:28.000.256,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\bodyfit\Mobile\UnitLogin.pas</Transaction>
+    <Transaction>2023/01/23 23:48:43.000.138,C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\bodyfit\Mobile\BodyFit.dproj</Transaction>
+    <Transaction>2023/01/30 21:12:47.000.732,=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 21:13:25.000.392,C:\bodyfit\Mobile\Unit1.pas=C:\bodyfit\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/01/30 21:13:25.000.392,C:\bodyfit\Mobile\Unit1.fmx=C:\bodyfit\Mobile\UnitPrincipal.fmx</Transaction>
+    <Transaction>2023/01/30 22:37:35.000.741,=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/01/30 22:39:11.000.482,C:\bodyfit\Mobile\Unit1.fmx=C:\bodyfit\Mobile\Frames\Frame.Treino.fmx</Transaction>
+    <Transaction>2023/01/30 22:39:11.000.482,C:\bodyfit\Mobile\Unit1.pas=C:\bodyfit\Mobile\Frames\Frame.Treino.pas</Transaction>
+    <Transaction>2023/02/04 23:12:20.000.801,=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/04 23:12:57.000.439,C:\bodyfit\Mobile\UnitTreinoDetalhe.pas=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/04 23:12:57.000.439,C:\bodyfit\Mobile\UnitTreinoDetalhe.fmx=C:\bodyfit\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2023/02/04 23:44:09.000.204,=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/04 23:48:51.000.389,C:\bodyfit\Mobile\UnitTreinoCad.pas=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/04 23:48:51.000.389,C:\bodyfit\Mobile\UnitTreinoCad.fmx=C:\bodyfit\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2023/02/05 00:00:33.000.006,=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/05 00:01:28.000.900,C:\bodyfit\Mobile\Frames\Frame.FichaExercicio.pas=C:\bodyfit\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/02/05 00:01:28.000.900,C:\bodyfit\Mobile\Frames\Frame.FichaExercicio.fmx=C:\bodyfit\Mobile\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android="RX8R70CMKGK"/>
+	</ActiveMobileDevice>
+</BorlandProject>
